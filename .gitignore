@@ -1,0 +1,62 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Topics/Arrays as parameters/Adding values/out/
+/Topics/Arrays as parameters/Adding values/out/production/classes/
+/Topics/Arrays as parameters/Theory/out/
+/Topics/Arrays as parameters/Theory/out/production/classes/
+/Topics/Arrays as parameters/Varargs/out/
+/Topics/Arrays as parameters/Varargs/out/production/classes/
+/Topics/Constructor/Book/out/
+/Topics/Constructor/Book/out/production/classes/
+/Topics/Constructor/Characterize the constructors/out/
+/Topics/Constructor/Characterize the constructors/out/production/classes/
+/Topics/Constructor/Theory/out/
+/Topics/Constructor/Theory/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Defining classes/Complex numbers/out/
+/Topics/Defining classes/Complex numbers/out/production/classes/
+/Topics/Defining classes/Representing time as a class/out/
+/Topics/Defining classes/Representing time as a class/out/production/classes/
+/Topics/Defining classes/The keyword/out/
+/Topics/Defining classes/The keyword/out/production/classes/
+/Topics/Defining classes/Theory/out/
+/Topics/Defining classes/Theory/out/production/classes/
+/Topics/Functional decomposition/Decompose a math function/out/
+/Topics/Functional decomposition/Decompose a math function/out/production/classes/
+/Topics/Functional decomposition/Roots of quadratic equation/out/
+/Topics/Functional decomposition/Roots of quadratic equation/out/production/classes/
+/Topics/Functional decomposition/Theory/out/
+/Topics/Functional decomposition/Theory/out/production/classes/
+/Topics/Functional decomposition/Why decompose a program/out/
+/Topics/Functional decomposition/Why decompose a program/out/production/classes/
+/Topics/Getters and setters/Getting the fullname/out/
+/Topics/Getters and setters/Getting the fullname/out/production/classes/
+/Topics/Instance methods/Circle/out/
+/Topics/Instance methods/Circle/out/production/classes/
+/Topics/Instance methods/Instance method and its class/out/
+/Topics/Instance methods/Instance method and its class/out/production/classes/
+/Topics/Instance methods/Invoke instance method/out/
+/Topics/Instance methods/Invoke instance method/out/production/classes/
+/Topics/Instance methods/Simulating a clock/out/
+/Topics/Instance methods/Simulating a clock/out/production/classes/
+/Topics/Instance methods/Theory/out/
+/Topics/Instance methods/Theory/out/production/classes/
+/Topics/Overloading/Determine the output/out/
+/Topics/Overloading/Determine the output/out/production/classes/
+/Topics/Overloading/Overloading methods/out/
+/Topics/Overloading/Overloading methods/out/production/classes/
+/Topics/Overloading/Theory/out/
+/Topics/Overloading/Theory/out/production/classes/
+/Topics/Package/Creating instances/out/
+/Topics/Package/Creating instances/out/production/classes/
+/Topics/What is an exception/Avoid division by zero/out/
+/Topics/What is an exception/Avoid division by zero/out/production/classes/
+/Topics/What is an exception/Check the code/out/
+/Topics/What is an exception/Check the code/out/production/classes/
+/Topics/What is an exception/Theory/out/
+/Topics/What is an exception/Theory/out/production/classes/
